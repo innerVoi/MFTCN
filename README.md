@@ -1,4 +1,4 @@
-# EP-TCN: A hybrid model for short-term air temperature forecasting
+# MFTCN: A Multi-Frequency Temporal Convolutional Network for Short-Term Temperature Prediction
 Daily mean temperature data from March 2010 to March 2020 of Wushan and Youyang in Chongqing, and main codes of the model.
 
 Take temperature data from Wushan, we used historical temperature series of different lengths to predict future short-term air temperature. ARIMA, XGBoost, LSTM, TCN, EEMD-LSTM and EEMD-TCN are compared with our model, the proposed model showed the best performance. #The article is under reveiwing.
