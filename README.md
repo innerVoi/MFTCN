@@ -6,7 +6,7 @@ Take temperature data from Wushan, we used historical temperature series of diff
 The experimental configuration: Ubuntu 16.04.7, Intel(R) Xeon(R) CPU E5620 @ 2.40GHz, GeForce GTX 1080 Ti, Python 3.7.9, Pytorch 1.7.1.
 
 
-**If you use this code in your research, please cite our work:**  
+**If you use this code/data in your research, please cite our work:**  
 ```bibtex
 @INPROCEEDINGS{10727066,
   author={Huang, Wei and Gao, Yuan and Fu, Xiangling and Song, Zhiyi},
